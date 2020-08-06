@@ -9,15 +9,15 @@
 
 ## Connect with me:
 
-[<img align="left" alt="@avisionho.yumyum | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][Medium]
-[<img align="left" alt="avision-ho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hungerontheculinaryexpress | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="avisionh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
+[<img align="left" alt="avisionh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="avisionh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 ***
 
 ### Languages and Tools:
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][webdevplaylist]
 [<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />][webdevplaylist]
@@ -26,3 +26,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][webdevplaylist]
 [<img align="left" alt="AzureDevOps" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/azuredevops.svg" />][webdevplaylist]
 [<img align="left" alt="travisci" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />][webdevplaylist]
+
+
+[medium]: https://medium.com/@avisionho.yumyum
+[instagram]: https://www.instagram.com/hungerontheculinaryexpress
+[linkedin]: https://www.linkedin.com/in/avision-ho
