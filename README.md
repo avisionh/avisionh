@@ -30,8 +30,6 @@
 <img align="left" alt="AzureDevOps" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/azuredevops.svg" />
 <img align="left" alt="travisci" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />
 
----
-
 [medium]: https://medium.com/@avisionho.yumyum
 [instagram]: https://www.instagram.com/hungerontheculinaryexpress
 [linkedin]: https://www.linkedin.com/in/avision-ho-397066a2/
