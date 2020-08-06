@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭  I’m currently working on an open-source project to build a website/Shiny app to empower users to find out more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors).
-- 🌱  I’m currently learning natural language processing, feel free to check out my repo [here](https://github.com/avisionh/training-nlp).
-- 👯  I’m looking to collaborate on interesting, open-source projects!
-- 💬  Ask me about anything really, I'll try my best to help, especially if it's R or SQL-related.
-- 😄  Pronouns: He/Him/His
-- ⚡ Fun fact: I write infrequently about video games on Medium, [here](https://medium.com/@avisionho.yumyum).
+- 🔭 : I’m currently working on an open-source project to build a website/Shiny app to empower users to find out more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors).
+- 🌱:  I’m currently learning natural language processing, feel free to check out my repo [here](https://github.com/avisionh/training-nlp).
+- 👯:  I’m looking to collaborate on interesting, open-source projects!
+- 💬:  Ask me about anything really, I'll try my best to help, especially if it's R or SQL-related.
+- 😄:  Pronouns: He/Him/His
+- ⚡: Fun fact: I write infrequently about video games on Medium, [here](https://medium.com/@avisionho.yumyum).
 
 <br />
 
@@ -22,6 +22,7 @@
 ---
 
 ### Languages and Tools:
+<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 <img align="left" alt="sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sqlite.svg" />
 <img align="left" alt="tsql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftsqlserver.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
@@ -32,7 +33,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
 <img align="left" alt="AzureDevOps" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/azuredevops.svg" />
 <img align="left" alt="travisci" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />
-<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
 [medium]: https://medium.com/@avisionho.yumyum
 [instagram]: https://www.instagram.com/hungerontheculinaryexpress
