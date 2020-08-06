@@ -21,7 +21,8 @@
 
 ### Languages and Tools:
 <img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
-<img align="left" alt="gcp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlecloud.svg />
+<img align="left" alt="gcp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/googlecloud.svg" />
+<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sqlite.svg" />
 <img align="left" alt="tsql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftsqlserver.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
@@ -32,7 +33,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
 <img align="left" alt="AzureDevOps" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/azuredevops.svg" />
 <img align="left" alt="travisci" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 
 [medium]: https://medium.com/@avisionho.yumyum
 [instagram]: https://www.instagram.com/hungerontheculinaryexpress
