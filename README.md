@@ -9,7 +9,7 @@
 
 ---
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="avisionh | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 [<img align="left" alt="avisionh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -30,6 +30,7 @@
 [<img align="left" alt="AzureDevOps" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/azuredevops.svg" />]
 [<img align="left" alt="travisci" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />]
 
+---
 
 [medium]: https://medium.com/@avisionho.yumyum
 [instagram]: https://www.instagram.com/hungerontheculinaryexpress
