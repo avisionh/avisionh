@@ -25,7 +25,7 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sqlite.svg" />
 <img align="left" alt="tsql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftsqlserver.svg" />
-<img align="left" alt="neo4j" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/neo4j.svg" />
+<!--- <img align="left" alt="neo4j" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/neo4j.svg" /> -->
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
@@ -37,7 +37,8 @@
 <img align="left" alt="travisci" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/travisci.svg" />
 <img align="left" alt="markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/markdown.svg" />
 <img align="left" alt="LaTeX" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/latex.svg" />
-
+<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/slack.svg" />
+<img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/trello.svg" />
 
 [medium]: https://medium.com/@avisionho.yumyum
 [instagram]: https://www.instagram.com/hungerontheculinaryexpress
