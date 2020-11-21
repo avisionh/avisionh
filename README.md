@@ -4,7 +4,9 @@
     + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful [here](https://github.com/alphagov/govuk-entity-personalisation/pull/1).
     + Applying doc2vec and self-organising maps to identify semantically-similar documents on GOV.UK [here](https://github.com/alphagov/govuk-content-similarity/pull/2).
     + An open-source project to build a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
-- **Learning:** Natural language processing - feel free to check out my repo [here](https://github.com/avisionh/training-nlp). 🌱
+- **Learning:** 
+    + Natural language processing - feel free to check out my repo [here](https://github.com/avisionh/training-nlp). 🌱
+    + Cypher querying for neo4j - feel free to check out my gist [here](https://gist.github.com/avisionh/e512adc6ee53664e63c2af9db3ef2c8f).
 - **Searching for:** Interesting, open-source projects to collaborate on! 👯
 - **Question me on:** Ask me anything really, I'll try my best to help, especially if it's R, Python or SQL-related. 💬
 - **Pronouns:** He/Him/His 😄
@@ -28,7 +30,7 @@
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sqlite.svg" />
 <img align="left" alt="tsql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftsqlserver.svg" />
-<!--- <img align="left" alt="neo4j" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/neo4j.svg" /> -->
+<img align="left" alt="neo4j" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/neo4j.svg" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
