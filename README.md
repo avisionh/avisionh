@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 - **Working on:** 
-    + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful [here](https://github.com/alphagov/govuk-entity-personalisation).
+    + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful through Continuous Bag-of-Word word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. It is available [here](https://github.com/alphagov/govuk-entity-personalisation).
     + Applying doc2vec, USE, ANNOY and self-organising maps to identify semantically-similar documents on GOV.UK.
-    + Writing Python functions that write SQL queries through selection, filtering and aggregation. Similar to the R package [dbplyr](https://github.com/tidyverse/dbplyr).
+    + Writing Python functions that write SQL queries through selection, filtering and aggregation.
     + An open-source project to build a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
 - **Learning:** 
-    + Natural language processing - feel free to check out my repo [here](https://github.com/avisionh/training-nlp). 🌱
-    + Cypher querying for neo4j - feel free to check out my gist [here](https://gist.github.com/avisionh/e512adc6ee53664e63c2af9db3ef2c8f).
+    + Natural language processing - check out my repo [here](https://github.com/avisionh/training-nlp). 🌱
+    + Cypher querying for neo4j - check out my gist [here](https://gist.github.com/avisionh/e512adc6ee53664e63c2af9db3ef2c8f).
 - **Searching for:** Interesting, open-source projects to collaborate on! 👯
 - **Question me on:** Ask me anything really, I'll try my best to help, especially if it's R, Python or SQL-related. 💬
 - **Pronouns:** He/Him/His 😄
