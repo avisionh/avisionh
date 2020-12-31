@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - **Working on:** 
+    + Using Parts-of-Speech (POS) tagging and syntactic-parsing to extract intent from user-feedback. 
     + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful through Continuous Bag-of-Word word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. It is available [here](https://github.com/alphagov/govuk-entity-personalisation).
     + Applying doc2vec, USE, ANNOY and self-organising maps to identify semantically-similar documents on GOV.UK.
     + Writing Python functions that write SQL queries through selection, filtering and aggregation.
