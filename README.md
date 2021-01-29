@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 - **Working on:** 
-    + Using Parts-of-Speech (POS) tagging and dependency-parsing to extract intent from user-feedback. 
+    + Using dependency-parsing represented in a graph database and deep-graph infomax to extract core intent from large GOV.UK survey feedback data. 
+    + Writing Python functions that write SQL queries through selection, filtering and aggregation.
+- **Highlights:**
     + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful through Continuous Bag-of-Word word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. It is available [here](https://github.com/alphagov/govuk-entity-personalisation).
     + Applying doc2vec, USE, ANNOY and self-organising maps to identify semantically-similar documents on GOV.UK.
-    + Writing Python functions that write SQL queries through selection, filtering and aggregation.
     + An open-source project to build a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
     + Modelling the causal drivers behind survey responses on longitudinal data conducted on pupils during COVID-19. It is available [here](https://github.com/ukgovdatascience/surveyanalysis).
 - **Learning:** 
