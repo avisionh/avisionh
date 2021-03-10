@@ -7,8 +7,9 @@
     + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful through Continuous Bag-of-Word and BERT word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. It is available [here](https://github.com/alphagov/govuk-entity-personalisation).
     + Applying doc2vec, USE, ANNOY and self-organising maps to identify semantically-similar documents on GOV.UK. It is available [here](https://github.com/alphagov/govuk-content-similarity).
     + Applied object-orientated programming principles to identify the language of content. It is available [here](https://github.com/alphagov/govuk-accessibility-reports).
-    + An open-source project to build a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
+    + Building a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
     + Modelling the causal drivers behind survey responses on longitudinal data conducted on pupils during COVID-19. It is available [here](https://github.com/ukgovdatascience/surveyanalysis).
+    + Establishing a standardised data science repository template through adding R functionality alongside the existing Python template. It is available [here](https://github.com/ukgovdatascience/govcookiecutter).
 - **Learning:** 
     + Natural language processing - check out my repo [here](https://github.com/avisionh/training-nlp). 🌱
     + Cypher querying for neo4j - check out my gist [here](https://gist.github.com/avisionh/e512adc6ee53664e63c2af9db3ef2c8f).
