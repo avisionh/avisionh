@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - **Working on:** 
-    + Using dependency-parsing represented in a graph database and deep-graph infomax to extract core intent from large GOV.UK survey feedback data. 
+    + Creating a network graph of media content.  It is available [here](https://github.com/avisionh/networkmedia).
     + Writing Python functions that write SQL queries through selection, filtering and aggregation.
 - **Highlights:**
     + Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful through Continuous Bag-of-Word and BERT word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. It is available [here](https://github.com/alphagov/govuk-entity-personalisation).
