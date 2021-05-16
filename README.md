@@ -7,7 +7,6 @@
 ### Working on:
 - Writing a mini-'package' to extract table names from SQL scripts and visualise in a graph database. Available [here](https://github.com/avisionh/sqlquerygraph). 
 - Creating a network graph of media content.  Available [here](https://github.com/avisionh/networkmedia).
-- Writing Python functions that write SQL queries through selection, filtering and aggregation.
 
 ### Open-source package contributions:
 - Interactive bokeh visualisation of SOMs in the [minisom package](https://github.com/JustGlowing/minisom). 
@@ -27,7 +26,12 @@
 
 
 ### Searching for: 
-- Interesting, open-source projects to collaborate on! 👯
+- Interesting, open-source projects to collaborate on - get in touch! 👯
+
+### Public talks
+- [EARL 2019 Conference Speaker](https://www.mango-solutions.com/earl-speaker-highlights-from-the-mango-team/)
+- [Interview for Data Strategy video series](https://www.youtube.com/watch?v=x5f6Z0TXdlQ)
+- [Interview for Martin Chan's blog](https://martinctc.github.io/blog/data-chats-an-interview-with-avision-ho/)
 
 </td>
 </tr>
