@@ -10,7 +10,7 @@
 
 ### Open-source package contributions:
 - Interactive bokeh visualisation of SOMs in the [minisom package](https://github.com/JustGlowing/minisom). 
-- travis.ci CI instructions to use DPL-V2 in the [mdBook package](https://github.com/rust-lang/mdBook).
+- travis CI instructions to use DPL-V2 in the [mdBook package](https://github.com/rust-lang/mdBook).
 - R functionality for pre-commit hooks to [govcookiecutter package](https://github.com/ukgovdatascience/govcookiecutter).
 
 </td>
@@ -18,11 +18,11 @@
 <td valign="top">
 
 ### Highlights:
-- Using the outputs of Named Entity Recognition to make GOV.UK's search engine more explainable, transparent and powerful through Continuous Bag-of-Word and BERT word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. It is available [here](https://github.com/alphagov/govuk-entity-personalisation).
-- Applying doc2vec, USE, ANNOY and self-organising maps to identify semantically-similar documents on GOV.UK. It is available [here](https://github.com/alphagov/govuk-content-similarity).
+- Used the custom-trained NER outputs to make GOV.UK's search engine more explainable, transparent and powerful through CBOW and BERT word embeddings to get content-specific synonyms which can enrich the existing entities we have on our content. Available [here](https://github.com/alphagov/govuk-entity-personalisation).
+- Utilised doc2vec, USE, ANNOY and SOMS to identify semantically-similar documents on GOV.UK. Available [here](https://github.com/alphagov/govuk-content-similarity).
 - Applied object-orientated programming principles to identify the language of content. It is available [here](https://github.com/alphagov/govuk-accessibility-reports).
-- Building a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
-- Modelling the causal drivers behind survey responses on longitudinal data conducted on pupils during COVID-19. It is available [here](https://github.com/ukgovdatascience/surveyanalysis).
+- Built a website/Shiny app that empowers users to learn more about their local district councillors in Hong Kong. Let me know if you're interested! Repo is [here](https://github.com/Hong-Kong-Districts-Info/dashboard-hkdistrictcouncillors). 🔭 
+- Modelled the causal drivers behind survey responses on longitudinal data conducted on pupils during COVID-19. It is available [here](https://github.com/ukgovdatascience/surveyanalysis).
 
 
 ### Searching for: 
